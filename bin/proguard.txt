@@ -1,0 +1,78 @@
+# view AndroidManifest.xml #generated:9
+-keep class com.amazonaws.demo.anonymous.AWSAndroidDemoTVM { <init>(...); }
+
+# view AndroidManifest.xml #generated:44
+-keep class com.amazonaws.demo.anonymous.AlertActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:34
+-keep class com.amazonaws.demo.anonymous.s3.S3BucketList { <init>(...); }
+
+# view AndroidManifest.xml #generated:36
+-keep class com.amazonaws.demo.anonymous.s3.S3BucketView { <init>(...); }
+
+# view AndroidManifest.xml #generated:35
+-keep class com.amazonaws.demo.anonymous.s3.S3CreateBucket { <init>(...); }
+
+# view AndroidManifest.xml #generated:33
+-keep class com.amazonaws.demo.anonymous.s3.S3Menu { <init>(...); }
+
+# view AndroidManifest.xml #generated:37
+-keep class com.amazonaws.demo.anonymous.s3.S3ObjectView { <init>(...); }
+
+# view AndroidManifest.xml #generated:40
+-keep class com.amazonaws.demo.anonymous.sdb.SdbDomainCreate { <init>(...); }
+
+# view AndroidManifest.xml #generated:41
+-keep class com.amazonaws.demo.anonymous.sdb.SdbDomainList { <init>(...); }
+
+# view AndroidManifest.xml #generated:42
+-keep class com.amazonaws.demo.anonymous.sdb.SdbItemCreate { <init>(...); }
+
+# view AndroidManifest.xml #generated:43
+-keep class com.amazonaws.demo.anonymous.sdb.SdbItemList { <init>(...); }
+
+# view AndroidManifest.xml #generated:39
+-keep class com.amazonaws.demo.anonymous.sdb.SdbMenu { <init>(...); }
+
+# view AndroidManifest.xml #generated:30
+-keep class com.amazonaws.demo.anonymous.sns.SnsCreateTopic { <init>(...); }
+
+# view AndroidManifest.xml #generated:31
+-keep class com.amazonaws.demo.anonymous.sns.SnsDeleteTopicList { <init>(...); }
+
+# view AndroidManifest.xml #generated:25
+-keep class com.amazonaws.demo.anonymous.sns.SnsMenu { <init>(...); }
+
+# view AndroidManifest.xml #generated:29
+-keep class com.amazonaws.demo.anonymous.sns.SnsPublish { <init>(...); }
+
+# view AndroidManifest.xml #generated:28
+-keep class com.amazonaws.demo.anonymous.sns.SnsSubscribe { <init>(...); }
+
+# view AndroidManifest.xml #generated:26
+-keep class com.amazonaws.demo.anonymous.sns.SnsTopicList { <init>(...); }
+
+# view AndroidManifest.xml #generated:27
+-keep class com.amazonaws.demo.anonymous.sns.SnsTopicView { <init>(...); }
+
+# view AndroidManifest.xml #generated:18
+-keep class com.amazonaws.demo.anonymous.sqs.SqsCreateQueue { <init>(...); }
+
+# view AndroidManifest.xml #generated:20
+-keep class com.amazonaws.demo.anonymous.sqs.SqsDeleteQueueList { <init>(...); }
+
+# view AndroidManifest.xml #generated:17
+-keep class com.amazonaws.demo.anonymous.sqs.SqsMenu { <init>(...); }
+
+# view AndroidManifest.xml #generated:23
+-keep class com.amazonaws.demo.anonymous.sqs.SqsMessageBody { <init>(...); }
+
+# view AndroidManifest.xml #generated:19
+-keep class com.amazonaws.demo.anonymous.sqs.SqsQueueList { <init>(...); }
+
+# view AndroidManifest.xml #generated:21
+-keep class com.amazonaws.demo.anonymous.sqs.SqsRecieveMessages { <init>(...); }
+
+# view AndroidManifest.xml #generated:22
+-keep class com.amazonaws.demo.anonymous.sqs.SqsSendMessages { <init>(...); }
+
